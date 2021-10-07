@@ -39,6 +39,12 @@ Spring Boot JPA - Rest API를 강의를 듣고, 게시판 구현 미션을 수�
 
 ### 4. REST-DOCS를 이용해서 문서화한다.
 
+### 5. 추가 기능
+
+- [ ] profile을 이용한 개발환경 분리
+- [ ] image  업로드 기능
+- [ ] api gateway
+
 # 프로젝트 구조
 
 ~~사진 업로드 & 설명 예정~~
